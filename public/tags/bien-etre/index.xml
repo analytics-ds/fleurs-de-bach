@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bien-Etre on Fleurs de Bach</title>
-    <link>https://example.com/tags/bien-etre/</link>
+    <link>https://analytics-ds.github.io/fleurs-de-bach/tags/bien-etre/</link>
     <description>Recent content in Bien-Etre on Fleurs de Bach</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/bien-etre/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://analytics-ds.github.io/fleurs-de-bach/tags/bien-etre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les fleurs de Bach pour le bien-etre au quotidien</title>
-      <link>https://example.com/blog/fleurs-de-bach-bien-etre-quotidien/</link>
+      <link>https://analytics-ds.github.io/fleurs-de-bach/blog/fleurs-de-bach-bien-etre-quotidien/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/fleurs-de-bach-bien-etre-quotidien/</guid>
+      <guid>https://analytics-ds.github.io/fleurs-de-bach/blog/fleurs-de-bach-bien-etre-quotidien/</guid>
       <description>&lt;h2 id=&#34;integrer-les-fleurs-de-bach-dans-sa-routine&#34;&gt;Integrer les fleurs de Bach dans sa routine&lt;/h2&gt;&#xA;&lt;p&gt;Les fleurs de Bach ne sont pas reservees aux moments de crise. Elles s&amp;rsquo;integrent naturellement dans une &lt;strong&gt;routine bien-etre quotidienne&lt;/strong&gt; pour maintenir l&amp;rsquo;equilibre emotionnel et prevenir les desequilibres.&lt;/p&gt;&#xA;&lt;p&gt;Le Dr Bach lui-meme encourageait une utilisation reguliere de ses elixirs comme outil de connaissance de soi et de developpement personnel.&lt;/p&gt;&#xA;&lt;h2 id=&#34;les-fleurs-pour-chaque-moment-de-la-journee&#34;&gt;Les fleurs pour chaque moment de la journee&lt;/h2&gt;&#xA;&lt;h3 id=&#34;le-matin--hornbeam-pour-lenergie&#34;&gt;Le matin : Hornbeam pour l&amp;rsquo;energie&lt;/h3&gt;&#xA;&lt;p&gt;Hornbeam est la fleur du &amp;ldquo;coup de fouet&amp;rdquo; matinal. Elle aide les personnes qui ont du mal a demarrer la journee, qui ressentent une lassitude mentale au reveil malgre un sommeil suffisant.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Fleurs de Bach</title>
-    <link>https://example.com/categories/</link>
+    <link>https://analytics-ds.github.io/fleurs-de-bach/categories/</link>
     <description>Recent content in Categories on Fleurs de Bach</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://analytics-ds.github.io/fleurs-de-bach/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienfaits Et Remedes</title>
-      <link>https://example.com/categories/bienfaits-et-remedes/</link>
+      <link>https://analytics-ds.github.io/fleurs-de-bach/categories/bienfaits-et-remedes/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/bienfaits-et-remedes/</guid>
+      <guid>https://analytics-ds.github.io/fleurs-de-bach/categories/bienfaits-et-remedes/</guid>
       <description></description>
     </item>
     <item>
       <title>Stress Et Serenite</title>
-      <link>https://example.com/categories/stress-et-serenite/</link>
+      <link>https://analytics-ds.github.io/fleurs-de-bach/categories/stress-et-serenite/</link>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/stress-et-serenite/</guid>
+      <guid>https://analytics-ds.github.io/fleurs-de-bach/categories/stress-et-serenite/</guid>
       <description></description>
     </item>
     <item>
       <title>Peurs Et Angoisses</title>
-      <link>https://example.com/categories/peurs-et-angoisses/</link>
+      <link>https://analytics-ds.github.io/fleurs-de-bach/categories/peurs-et-angoisses/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/peurs-et-angoisses/</guid>
+      <guid>https://analytics-ds.github.io/fleurs-de-bach/categories/peurs-et-angoisses/</guid>
       <description></description>
     </item>
     <item>
       <title>Confiance Et Estime De Soi</title>
-      <link>https://example.com/categories/confiance-et-estime-de-soi/</link>
+      <link>https://analytics-ds.github.io/fleurs-de-bach/categories/confiance-et-estime-de-soi/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/confiance-et-estime-de-soi/</guid>
+      <guid>https://analytics-ds.github.io/fleurs-de-bach/categories/confiance-et-estime-de-soi/</guid>
       <description></description>
     </item>
     <item>
       <title>Bien-Etre Au Quotidien</title>
-      <link>https://example.com/categories/bien-etre-au-quotidien/</link>
+      <link>https://analytics-ds.github.io/fleurs-de-bach/categories/bien-etre-au-quotidien/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/bien-etre-au-quotidien/</guid>
+      <guid>https://analytics-ds.github.io/fleurs-de-bach/categories/bien-etre-au-quotidien/</guid>
       <description></description>
     </item>
   </channel>
