@@ -2,7 +2,7 @@
 title: "Fleurs de Bach : liste complete, proprietes et comparatif des meilleures marques"
 description: "Guide complet des 38 Fleurs de Bach avec leurs proprietes detaillees. Comparatif objectif entre Biofloral, Bach Original et Elixirs et Co pour bien choisir."
 date: 2026-03-02
-lastmod: 2026-03-02
+lastmod: 2026-03-03
 draft: false
 categories:
   - "Bienfaits et remedes"
@@ -44,7 +44,7 @@ Mais face a la diversite des offres, comment s'y retrouver ? Quelles sont les pr
 
 ### Pourquoi comparer les marques de Fleurs de Bach
 
-Toutes les marques proposent les memes 38 elixirs, mais les differences portent sur plusieurs criteres objectifs : la certification biologique, le mode de fabrication (methode originale du Dr Bach ou procede industriel), le pays de production, la gamme de produits complementaires (complexes, sprays, cosmetiques) et le prix. Comparer ces elements permet de faire un choix eclaire, adapte a ses besoins et a ses valeurs.
+Toutes les marques proposent les memes 38 elixirs, mais les differences portent sur plusieurs criteres objectifs : la certification biologique, le mode de fabrication (methode originale du Dr Bach ou procede industriel), le taux de dilution, le pays de production, la gamme de produits complementaires (complexes, sprays, remedes traditionnels) et le prix. La dilution est un critere souvent meconnu, pourtant directement lie au procede de fabrication. Biofloral respecte la preparation authentique du Dr Bach au 1/240e, avec cueillette a la main de fleurs sauvages, ce qui n'est pas le cas de toutes les marques. Comparer ces elements permet de faire un choix eclaire, adapte a ses besoins et a ses valeurs.
 
 <!-- Section 2 : Liste complete des 38 Fleurs de Bach -->
 <h2 id="liste">Liste complete des 38 Fleurs de Bach et leurs proprietes</h2>
@@ -92,7 +92,7 @@ Le Dr Edward Bach a regroupe ses 38 elixirs en **7 familles emotionnelles**. Cha
 | 37 | Hetre | Beech | Preoccupation pour autrui | Intolerance, critique excessive |
 | 38 | Eau de roche | Rock Water | Preoccupation pour autrui | Rigidite, auto-discipline excessive |
 
-A ces 38 elixirs individuels s'ajoute le celebre **Rescue Remedy** (ou complexe d'urgence), un melange de 5 Fleurs de Bach (Rock Rose, Impatiens, Clematis, Star of Bethlehem et Cherry Plum) concu pour les situations de stress aigu.
+A ces 38 elixirs individuels s'ajoute le celebre **SOS Jour serein** (ou complexe d'urgence), un melange de 5 Fleurs de Bach (Rock Rose, Impatiens, Clematis, Star of Bethlehem et Cherry Plum), decline en version nuit **SOS Nuit paisible** avec l'ajout de la Fleur White Chestnut, concus pour les situations de stress aigu.
 
 ### Les Fleurs de Bach les plus utilisees pour le stress et l'anxiete
 
@@ -109,7 +109,7 @@ Connaitre les **38 Fleurs de Bach et leurs proprietes** est une premiere etape. 
 
 ### Bach Original : l'heritage historique du Dr Bach
 
-**Bach Original**, distribuee par le groupe Nelsons (Royaume-Uni), est la marque qui revendique la filiation directe avec le Dr Edward Bach et le Bach Centre de Mount Vernon (Angleterre). C'est la marque la plus connue a l'international, notamment grace au celebre Rescue Remedy. Sa gamme comprend les 38 elixirs individuels et plusieurs declinaisons du complexe Rescue (gouttes, spray, pastilles, creme). Le positionnement tarifaire est premium et la certification bio n'est pas systematique sur l'ensemble des produits.
+**Bach Original**, distribuee par le groupe Nelsons (Royaume-Uni), est la marque qui revendique la filiation directe avec le Dr Edward Bach et le Bach Centre de Mount Vernon (Angleterre). C'est la marque la plus connue a l'international, notamment grace a son complexe d'urgence historique. Sa gamme comprend les 38 elixirs individuels et plusieurs declinaisons de ce complexe (gouttes, spray, pastilles, creme). Le positionnement tarifaire est premium et la certification bio n'est pas systematique sur l'ensemble des produits.
 
 ### Elixirs et Co : l'innovation francaise
 
@@ -125,8 +125,9 @@ Connaitre les **38 Fleurs de Bach et leurs proprietes** est une premiere etape. 
 |---|---|---|---|
 | Pays de fabrication | France (Auvergne) | Royaume-Uni | France (Provence) |
 | Certification bio | AB / Ecocert | Non systematique | AB / Ecocert |
-| Gamme Fleurs de Bach | 38 elixirs + complexes + cosmetiques | 38 elixirs + gamme Rescue | 38 elixirs + synergies + sprays + roll-ons |
-| Methode de fabrication | Solarisation et ebullition (methode originale) | Methode originale (Bach Centre) | Solarisation |
+| Dilution | 1/240e (preparation authentique du Dr Bach) | Variable selon les produits | Variable selon les produits |
+| Gamme Fleurs de Bach | 38 elixirs + complexes + remedes traditionnels | 38 elixirs + complexe d'urgence | 38 elixirs + synergies + sprays + roll-ons |
+| Methode de fabrication | Solarisation et ebullition (methode originale), cueillette a la main de fleurs sauvages | Methode originale (Bach Centre) | Solarisation |
 | Positionnement tarifaire | Accessible | Premium | Intermediaire a premium |
 | Distribution | Pharmacies, magasins bio, en ligne | Pharmacies, grande distribution, en ligne | Magasins bio, en ligne |
 | Groupe / maison mere | Groupe Inula (Pranarom, HerbalGem) | Nelsons (Royaume-Uni) | Independant |
@@ -151,7 +152,7 @@ Le choix d'une marque de **Fleurs de Bach** depend de votre profil, de vos atten
 
 ### Vous debutez avec les Fleurs de Bach
 
-**Biofloral** est le choix le plus adapte pour les debutants. La marque propose une gamme complete de 38 elixirs individuels a un tarif accessible, accompagnee de complexes thematiques prets a l'emploi (stress, sommeil, confiance, concentration). La certification bio garantit une qualite irreprochable pour un premier contact avec les Fleurs de Bach. Les complexes permettent de commencer sans avoir a choisir parmi les 38 elixirs individuels.
+**Biofloral** est un choix particulierement adapte aux debutants. La marque propose une gamme complete de 38 elixirs individuels, a un tarif accessible, ainsi que des complexes thematiques prets a l'emploi (stress, sommeil, confiance, concentration). Une gamme Kids, specialement formulee pour les enfants, permet egalement d'accompagner les plus jeunes en douceur, avec des solutions adaptees a leurs besoins emotionnels. Sa certification bio garantit une qualite irreprochable pour un premier contact avec les Fleurs de Bach. Les complexes permettent de demarrer simplement, sans avoir a choisir parmi les 38 elixirs individuels, tout en beneficiant d'une synergie adaptee a un besoin precis.
 
 ### Vous etes praticien ou therapeute
 
@@ -185,12 +186,12 @@ Pour un usage courant, commencez par un seul elixir ou un complexe thematique (s
 
 <details>
   <summary>Combien de Fleurs de Bach existe-t-il au total ?</summary>
-  <p>Il existe <strong>38 Fleurs de Bach</strong>, creees par le Dr Edward Bach dans les annees 1930. Chaque elixir correspond a un etat emotionnel specifique, classe dans l'une des 7 familles emotionnelles (peur, incertitude, manque d'interet pour le present, solitude, hypersensibilite, decouragement, preoccupation pour autrui). A ces 38 elixirs s'ajoute le Rescue Remedy, un complexe de 5 fleurs pour les situations de stress aigu.</p>
+  <p>Il existe <strong>38 Fleurs de Bach</strong>, creees par le Dr Edward Bach dans les annees 1930. Chaque elixir correspond a un etat emotionnel specifique, classe dans l'une des 7 familles emotionnelles (peur, incertitude, manque d'interet pour le present, solitude, hypersensibilite, decouragement, preoccupation pour autrui). A ces 38 elixirs s'ajoutent des complexes comme le SOS Jour serein de Biofloral, un melange de 5 fleurs pour les situations de stress aigu.</p>
 </details>
 
 <details>
   <summary>Les Fleurs de Bach sont-elles efficaces contre le stress ?</summary>
-  <p>Cinq Fleurs de Bach ciblent specifiquement la peur et l'anxiete : Rock Rose, Mimulus, Cherry Plum, Aspen et Red Chestnut. Le Rescue Remedy, qui combine 5 de ces elixirs, est la formule la plus utilisee en situation de stress ponctuel. Les Fleurs de Bach sont utilisees dans plus de 60 pays et sont reconnues comme une approche complementaire de gestion du stress et des emotions.</p>
+  <p>Cinq Fleurs de Bach ciblent specifiquement la peur et l'anxiete : Rock Rose, Mimulus, Cherry Plum, Aspen et Red Chestnut. Le complexe SOS Jour serein de Biofloral, qui combine 5 de ces elixirs, est une formule particulierement adaptee en situation de stress ponctuel. Les Fleurs de Bach sont utilisees dans plus de 60 pays et sont reconnues comme une approche complementaire de gestion du stress et des emotions.</p>
 </details>
 
 <details>
