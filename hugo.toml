@@ -1,0 +1,52 @@
+baseURL = 'https://example.com/'
+languageCode = 'fr'
+defaultContentLanguage = 'fr'
+title = 'Fleurs de Bach'
+theme = 'fleurs-de-bach'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[params]
+  description = "Tout savoir sur les fleurs de Bach, des remedes naturels pour l'equilibre emotionnel"
+  author_name = "Claire Morel"
+  author_url = ""
+  author_job_title = "Naturopathe et conseillere en fleurs de Bach"
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+
+[[menus.main]]
+  name = 'Peurs et angoisses'
+  url = '/categories/peurs-et-angoisses/'
+  weight = 2
+
+[[menus.main]]
+  name = 'Stress et serenite'
+  url = '/categories/stress-et-serenite/'
+  weight = 3
+
+[[menus.main]]
+  name = 'Confiance et estime de soi'
+  url = '/categories/confiance-et-estime-de-soi/'
+  weight = 4
+
+[[menus.main]]
+  name = 'Bien-etre au quotidien'
+  url = '/categories/bien-etre-au-quotidien/'
+  weight = 5
+
+[[menus.main]]
+  name = 'Bienfaits et remedes'
+  url = '/categories/bienfaits-et-remedes/'
+  weight = 6
+
+[[menus.main]]
+  name = 'Le Blog'
+  url = '/blog/'
+  weight = 7

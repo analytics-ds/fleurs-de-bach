@@ -1,0 +1,31 @@
+# Fleurs de Bach
+
+> Tout savoir sur les fleurs de Bach, des remedes naturels pour l'equilibre emotionnel
+
+## A propos
+
+Ce blog est dedie aux fleurs de Bach, un systeme de 38 elixirs floraux developpes par le Dr Edward Bach pour restaurer l'equilibre emotionnel. Les articles couvrent les differentes fleurs, leurs indications, et comment les utiliser au quotidien.
+
+## Contenu principal
+
+- Peurs et angoisses : les fleurs de Bach pour surmonter ses peurs
+- Stress et serenite : retrouver le calme avec les elixirs floraux
+- Confiance et estime de soi : renforcer sa confiance grace aux fleurs
+- Bien-etre au quotidien : integrer les fleurs dans sa routine
+- Bienfaits et remedes : guides complets et conseils pratiques
+
+## Articles recents
+
+- Les 38 fleurs de Bach : guide complet des elixirs floraux
+- Mimulus, la fleur de Bach contre les peurs connues
+- Rock Rose, la fleur de Bach pour les terreurs et paniques
+- Quelles fleurs de Bach pour gerer le stress
+- Larch, la fleur de Bach pour la confiance en soi
+- Les fleurs de Bach pour le bien-etre au quotidien
+
+## Informations techniques
+
+- Generateur : Hugo
+- Hebergement : GitHub Pages
+- Sitemap : https://example.com/sitemap.xml
+- RSS : https://example.com/index.xml

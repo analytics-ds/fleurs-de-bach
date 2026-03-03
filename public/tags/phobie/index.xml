@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phobie on Fleurs de Bach</title>
+    <link>https://example.com/tags/phobie/</link>
+    <description>Recent content in Phobie on Fleurs de Bach</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/phobie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mimulus, la fleur de Bach contre les peurs connues</title>
+      <link>https://example.com/blog/mimulus-fleur-de-bach-peur/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/mimulus-fleur-de-bach-peur/</guid>
+      <description>&lt;h2 id=&#34;quest-ce-que-mimulus&#34;&gt;Qu&amp;rsquo;est-ce que Mimulus&lt;/h2&gt;&#xA;&lt;p&gt;Mimulus (Mimulus guttatus) est l&amp;rsquo;une des 38 fleurs de Bach identifiees par le Dr Edward Bach dans les annees 1930. Cette fleur jaune tachetee de rouge pousse pres des cours d&amp;rsquo;eau et des zones humides. Elle correspond a un etat emotionnel precis : &lt;strong&gt;les peurs connues et identifiables&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Contrairement a Aspen, qui traite les peurs vagues et indefinissables, Mimulus s&amp;rsquo;adresse aux personnes capables de nommer ce qui les effraie.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "fr" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+    {{ partial "seo-head.html" . }}
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+    {{ $css := resources.Get "css/main.css" }}
+    {{ if $css }}
+        <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{ end }}
+
+    <!-- Decorative flower backgrounds (paths via Hugo relURL) -->
+    <style>
+        .page-florals {
+            background-image:
+                url('{{ "images/deco/flower-cherry.svg" | relURL }}'),
+                url('{{ "images/deco/flower-mauve.svg" | relURL }}'),
+                url('{{ "images/deco/flower-small.svg" | relURL }}'),
+                url('{{ "images/deco/leaf-branch.svg" | relURL }}'),
+                url('{{ "images/deco/bottle.svg" | relURL }}'),
+                url('{{ "images/deco/flower-cherry.svg" | relURL }}'),
+                url('{{ "images/deco/flower-small.svg" | relURL }}'),
+                url('{{ "images/deco/flower-mauve.svg" | relURL }}');
+            background-position:
+                top 30px left -100px,
+                top 35% right -70px,
+                top 18% left 52%,
+                top 8% right 2%,
+                bottom 35% left 3%,
+                bottom 15% left 25%,
+                bottom 8% right 8%,
+                bottom 45% right 40%;
+            background-size:
+                420px, 350px, 220px, 140px, 110px, 320px, 200px, 280px;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body>
+    <div class="page-florals" aria-hidden="true"></div>
+
+    {{ partial "header.html" . }}
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+
+</body>
+</html>

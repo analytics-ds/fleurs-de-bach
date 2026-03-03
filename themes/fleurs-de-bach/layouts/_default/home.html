@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+{{ $categoryEmojis := dict
+    "Peurs et angoisses" "😰"
+    "Stress et serenite" "🧘"
+    "Confiance et estime de soi" "💪"
+    "Bien-etre au quotidien" "🌿"
+    "Bienfaits et remedes" "💐"
+}}
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-deco">
+        <span class="petal petal-1">🌸</span>
+        <span class="petal petal-2">🌼</span>
+        <span class="petal petal-3">🌺</span>
+        <span class="petal petal-4">🪻</span>
+        <span class="petal petal-5">🌷</span>
+        <span class="petal petal-6">💮</span>
+        <span class="petal petal-7">🌸</span>
+        <span class="petal petal-8">🌼</span>
+        <span class="bottle bottle-1">🧴</span>
+        <span class="bottle bottle-2">🧪</span>
+    </div>
+    <div class="hero-content">
+        <span class="hero-badge">🌸 Remedes naturels</span>
+        <h1>🌼 Fleurs de Bach</h1>
+        <p class="hero-description">Decouvrez les 38 elixirs floraux du Dr Bach pour retrouver l'equilibre emotionnel et le bien-etre au naturel.</p>
+        <a href="{{ "blog/" | relURL }}" class="btn-primary">📖 Explorez le blog</a>
+    </div>
+</section>
+
+<!-- Floral separator -->
+<div class="floral-separator">
+    <span>🌿</span><span>🌸</span><span>🌿</span>
+</div>
+
+<!-- Categories Section -->
+<section class="categories-section">
+    <div class="container">
+        <h2 class="section-title">Nos categories</h2>
+        <div class="grid-categories">
+            {{ range .Site.Taxonomies.categories }}
+            <a href="{{ .Page.RelPermalink }}" class="category-card">
+                {{ $emoji := index $categoryEmojis .Page.Title }}
+                {{ with $emoji }}<span class="category-emoji">{{ . }}</span>{{ end }}
+                <h3>{{ .Page.Title }}</h3>
+                <span class="category-count">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Floral separator -->
+<div class="floral-separator">
+    <span>🌷</span><span>🌼</span><span>🌷</span>
+</div>
+
+<!-- Latest Articles Section -->
+<section class="latest-section">
+    <div class="container">
+        <h2 class="section-title">Derniers articles</h2>
+        <div class="grid-articles">
+            {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
+            <article class="article-card">
+                <div class="article-meta">
+                    {{ with .Params.categories }}
+                    {{ $cat := index . 0 }}
+                    {{ $catEmoji := index $categoryEmojis $cat }}
+                    <span class="article-category">{{ with $catEmoji }}{{ . }} {{ end }}{{ $cat }}</span>
+                    {{ end }}
+                    <time>📅 {{ .Date.Format "2 January 2006" }}</time>
+                </div>
+                <h3><a href="{{ .RelPermalink }}" class="card-link">{{ .Title }}</a></h3>
+                <p>{{ .Description }}</p>
+                <span class="read-more">Lire la suite →</span>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}
