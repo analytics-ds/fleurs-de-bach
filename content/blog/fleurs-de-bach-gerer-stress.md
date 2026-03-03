@@ -5,7 +5,7 @@ date: 2026-02-13
 lastmod: 2026-02-13
 draft: false
 categories:
-  - "Stress et serenite"
+  - "Stress et sérénité"
 tags:
   - "stress"
   - "serenite"

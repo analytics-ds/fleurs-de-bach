@@ -5,7 +5,7 @@ date: 2026-02-10
 lastmod: 2026-02-10
 draft: false
 categories:
-  - "Bienfaits et remedes"
+  - "Bienfaits et remèdes"
 tags:
   - "38 fleurs"
   - "guide complet"

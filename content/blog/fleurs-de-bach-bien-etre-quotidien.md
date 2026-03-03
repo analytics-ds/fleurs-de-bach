@@ -5,7 +5,7 @@ date: 2026-02-11
 lastmod: 2026-02-11
 draft: false
 categories:
-  - "Bien-etre au quotidien"
+  - "Bien-être au quotidien"
 tags:
   - "bien-etre"
   - "routine"

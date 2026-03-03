@@ -12,10 +12,10 @@ theme = 'fleurs-de-bach'
   tag = 'tags'
 
 [params]
-  description = "Tout savoir sur les fleurs de Bach, des remedes naturels pour l'equilibre emotionnel"
+  description = "Tout savoir sur les fleurs de Bach, des remèdes naturels pour l'équilibre émotionnel"
   author_name = "Claire Morel"
   author_url = ""
-  author_job_title = "Naturopathe et conseillere en fleurs de Bach"
+  author_job_title = "Naturopathe et conseillère en fleurs de Bach"
 
 [sitemap]
   changefreq = 'weekly'
@@ -27,7 +27,7 @@ theme = 'fleurs-de-bach'
   weight = 2
 
 [[menus.main]]
-  name = 'Stress et serenite'
+  name = 'Stress et sérénité'
   url = '/categories/stress-et-serenite/'
   weight = 3
 
@@ -37,12 +37,12 @@ theme = 'fleurs-de-bach'
   weight = 4
 
 [[menus.main]]
-  name = 'Bien-etre au quotidien'
+  name = 'Bien-être au quotidien'
   url = '/categories/bien-etre-au-quotidien/'
   weight = 5
 
 [[menus.main]]
-  name = 'Bienfaits et remedes'
+  name = 'Bienfaits et remèdes'
   url = '/categories/bienfaits-et-remedes/'
   weight = 6
 

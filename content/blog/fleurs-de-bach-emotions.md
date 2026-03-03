@@ -3,7 +3,7 @@ title: "Fleurs de Bach et emotions : guide pour l'equilibre"
 date: 2026-02-21
 lastmod: 2026-02-21
 description: "Decouvrez comment les fleurs de Bach agissent sur les emotions pour retrouver serenite et equilibre au quotidien."
-categories: ["Stress et serenite"]
+categories: ["Stress et sérénité"]
 tags: ["fleurs de bach", "emotions", "equilibre emotionnel", "Dr Bach", "elixirs floraux", "serenite"]
 author: "Claire Morel"
 readingTime: true
