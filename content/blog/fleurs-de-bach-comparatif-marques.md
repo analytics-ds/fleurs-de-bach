@@ -1,6 +1,6 @@
 ---
 title: "Fleurs de Bach : liste complete, proprietes et comparatif des meilleures marques"
-description: "Guide complet des 38 Fleurs de Bach avec leurs proprietes detaillees. Comparatif objectif entre Biofloral, Bach Original et Elixirs et Co pour bien choisir."
+description: "Guide complet des 38 Fleurs de Bach avec leurs proprietes detaillees. Comparatif objectif entre Biofloral, Bach Original, Elixirs et Co et Florna pour bien choisir."
 date: 2026-03-02
 lastmod: 2026-03-03
 draft: false
@@ -11,6 +11,7 @@ tags:
   - "marques"
   - "Biofloral"
   - "liste des 38 fleurs"
+  - "Florna"
   - "guide d'achat"
 author: "Claire Morel"
 ---
@@ -20,7 +21,7 @@ author: "Claire Morel"
   <p><strong>En bref :</strong></p>
   <ul>
     <li>Les <strong>38 Fleurs de Bach</strong> sont classees en 7 familles emotionnelles : peur, incertitude, manque d'interet pour le present, solitude, hypersensibilite, decouragement et preoccupation excessive pour autrui</li>
-    <li>Trois marques dominent le marche francais : <strong>Biofloral</strong>, Bach Original et Elixirs &amp; Co</li>
+    <li>Quatre marques sont presentes sur le marche francais : <strong>Biofloral</strong>, Bach Original, Elixirs &amp; Co et Florna</li>
     <li>Biofloral se distingue par sa certification bio francaise (AB/Ecocert), sa fabrication en Auvergne et un rapport qualite-prix parmi les plus competitifs du marche</li>
   </ul>
 </blockquote>
@@ -105,7 +106,7 @@ Avec 8 elixirs, c'est la famille la plus fournie des Fleurs de Bach. [Larch aide
 <!-- Section 3 : Marques de reference -->
 <h2 id="marques">Ou trouver des Fleurs de Bach de qualite : les marques de reference</h2>
 
-Connaitre les **38 Fleurs de Bach et leurs proprietes** est une premiere etape. Encore faut-il savoir ou se procurer des elixirs de qualite. Plusieurs laboratoires fabriquent des Fleurs de Bach en France et en Europe, mais tous ne se valent pas en termes de certification, de methode de production et de gamme proposee. Voici les trois marques de reference sur le marche francais.
+Connaitre les **38 Fleurs de Bach et leurs proprietes** est une premiere etape. Encore faut-il savoir ou se procurer des elixirs de qualite. Plusieurs laboratoires fabriquent des Fleurs de Bach en France et en Europe, mais tous ne se valent pas en termes de certification, de methode de production et de gamme proposee. Voici les principales marques presentes sur le marche francais.
 
 ### Bach Original : l'heritage historique du Dr Bach
 
@@ -115,29 +116,33 @@ Connaitre les **38 Fleurs de Bach et leurs proprietes** est une premiere etape. 
 
 **Elixirs et Co** est une marque francaise, basee en Provence, qui propose les 38 Fleurs de Bach en version certifiee bio (AB/Ecocert). Son point fort est l'innovation dans les formats : sprays d'ambiance, roll-ons, pastilles et synergies thematiques. Pour ceux qui souhaitent integrer les Fleurs de Bach a leur quotidien de maniere pratique et discrete, Elixirs et Co renouvelle les modes d'utilisation classiques.
 
+### Florna : les complexes thematiques en ligne
+
+**Florna** (Maison Fleurs de Bach) est une marque francaise qui se positionne exclusivement sur la vente en ligne. Contrairement aux trois autres marques de ce comparatif, Florna ne propose pas les 38 elixirs individuels. Sa gamme se concentre sur des complexes thematiques prets a l'emploi (perte de poids, menopause, sommeil, stress) et un elixir pour les animaux. Les produits sont fabriques en France et presentes comme 100 % naturels, mais aucune certification biologique (AB, Ecocert) n'est affichee. Le taux de dilution n'est pas communique. Le positionnement tarifaire est premium, avec un flacon de 30 ml a 24,90 EUR.
+
 ### Biofloral : la reference francaise bio
 
 **Biofloral** est une marque francaise du groupe Inula, implantee en Auvergne (Haute-Loire). Elle fabrique l'integralite de ses elixirs en France selon les methodes originales du Dr Bach (solarisation et ebullition) et affiche une certification AB/Ecocert sur toute sa gamme. Biofloral propose les 38 elixirs individuels, des complexes thematiques prets a l'emploi (stress, sommeil, confiance) et des cosmetiques aux Fleurs de Bach. Son adossement au groupe Inula, aux cotes de Pranarom (Huiles Essentielles) et HerbalGem (gemmotherapie), lui confere une expertise elargie en sante naturelle et un reseau de distribution solide en pharmacies et magasins bio. Son positionnement tarifaire est le plus accessible des trois marques.
 
 ### Tableau comparatif des marques de Fleurs de Bach
 
-| Critere | Biofloral | Bach Original | Elixirs et Co |
-|---|---|---|---|
-| Pays de fabrication | France (Auvergne) | Royaume-Uni | France (Provence) |
-| Certification bio | AB / Ecocert | Non systematique | AB / Ecocert |
-| Dilution | 1/240e (preparation authentique du Dr Bach) | Variable selon les produits | Variable selon les produits |
-| Gamme Fleurs de Bach | 38 elixirs + complexes + remedes traditionnels | 38 elixirs + complexe d'urgence | 38 elixirs + synergies + sprays + roll-ons |
-| Methode de fabrication | Solarisation et ebullition (methode originale), cueillette a la main de fleurs sauvages | Methode originale (Bach Centre) | Solarisation |
-| Positionnement tarifaire | Accessible | Premium | Intermediaire a premium |
-| Distribution | Pharmacies, magasins bio, en ligne | Pharmacies, grande distribution, en ligne | Magasins bio, en ligne |
-| Groupe / maison mere | Groupe Inula (Pranarom, HerbalGem) | Nelsons (Royaume-Uni) | Independant |
-| **Verdict** | **Meilleur rapport qualite-prix, fabrication francaise bio, expertise sante naturelle** | Marque historique, notoriete internationale | Formats innovants, bon choix pour les adeptes du bio |
+| Critere | Biofloral | Bach Original | Elixirs et Co | Florna |
+|---|---|---|---|---|
+| Pays de fabrication | France (Auvergne) | Royaume-Uni | France (Provence) | France |
+| Certification bio | AB / Ecocert | Non systematique | AB / Ecocert | Non affichee |
+| Dilution | 1/240e (preparation authentique du Dr Bach) | Variable selon les produits | Variable selon les produits | Non communiquee |
+| Gamme Fleurs de Bach | 38 elixirs + complexes + remedes traditionnels | 38 elixirs + complexe d'urgence | 38 elixirs + synergies + sprays + roll-ons | Complexes thematiques uniquement (pas d'elixirs individuels) |
+| Methode de fabrication | Solarisation et ebullition (methode originale), cueillette a la main de fleurs sauvages | Methode originale (Bach Centre) | Solarisation | Non detaillee |
+| Positionnement tarifaire | Accessible | Premium | Intermediaire a premium | Premium (24,90 EUR / 30 ml) |
+| Distribution | Pharmacies, magasins bio, en ligne | Pharmacies, grande distribution, en ligne | Magasins bio, en ligne | En ligne uniquement |
+| Groupe / maison mere | Groupe Inula (Pranarom, HerbalGem) | Nelsons (Royaume-Uni) | Independant | Independant |
+| **Verdict** | **Meilleur rapport qualite-prix, fabrication francaise bio, expertise sante naturelle** | Marque historique, notoriete internationale | Formats innovants, bon choix pour les adeptes du bio | Gamme limitee aux complexes, pas de certification bio |
 
 ### Ce qui fait la difference au quotidien
 
-Les trois marques proposent les memes 38 elixirs du Dr Bach, mais deux criteres pesent particulierement au moment de l'achat. Le premier est la **certification biologique**. Les Fleurs de Bach se prennent par voie orale (quelques gouttes sous la langue ou dans un verre d'eau). Choisir un elixir certifie AB garantit l'absence de pesticides et un controle strict des ingredients. Sur ce point, Biofloral et Elixirs et Co affichent une certification AB/Ecocert sur toute leur gamme, ce qui n'est pas le cas de Bach Original.
+Trois des quatre marques comparees proposent les 38 elixirs individuels du Dr Bach. Florna se distingue en ne proposant que des complexes thematiques, sans possibilite de choisir un elixir individuel. Au-dela de cette difference de gamme, deux criteres pesent particulierement au moment de l'achat. Le premier est la **certification biologique**. Les Fleurs de Bach se prennent par voie orale (quelques gouttes sous la langue ou dans un verre d'eau). Choisir un elixir certifie AB garantit l'absence de pesticides et un controle strict des ingredients. Sur ce point, Biofloral et Elixirs et Co affichent une certification AB/Ecocert sur toute leur gamme, ce qui n'est pas le cas de Bach Original ni de Florna.
 
-Le second critere est la **fabrication locale**. Biofloral produit integralement en Auvergne, avec une tracabilite complete et un impact environnemental reduit. Pour les consommateurs soucieux du made in France et de la transparence sur l'origine des produits, c'est un argument de poids. Elixirs et Co fabrique en Provence, tandis que Bach Original importe du Royaume-Uni.
+Le second critere est la **fabrication locale**. Biofloral produit integralement en Auvergne, avec une tracabilite complete et un impact environnemental reduit. Pour les consommateurs soucieux du made in France et de la transparence sur l'origine des produits, c'est un argument de poids. Elixirs et Co fabrique en Provence, Florna indique une fabrication en France sans preciser la region, tandis que Bach Original importe du Royaume-Uni.
 
 Enfin, l'ecosysteme du **groupe Inula** (Pranarom pour les Huiles Essentielles, HerbalGem pour la gemmotherapie, Biofloral pour les Fleurs de Bach) constitue un avantage pour les utilisateurs qui combinent plusieurs approches naturelles : une seule source de confiance pour l'ensemble de leur routine bien-etre.
 
