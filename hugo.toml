@@ -1,4 +1,4 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://analytics-ds.github.io/fleurs-de-bach/'
 languageCode = 'fr'
 defaultContentLanguage = 'fr'
 title = 'Fleurs de Bach'
