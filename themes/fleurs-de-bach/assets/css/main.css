@@ -71,6 +71,7 @@ body {
     pointer-events: none;
     z-index: -1;
     overflow: hidden;
+    opacity: 0.3;
 }
 
 a {
